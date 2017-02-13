@@ -34,10 +34,10 @@ body {
 }
 
 
-.nav {
+/*.nav {
     float: right;
     margin-right: 475px;
-}
+}*/
 
 #custom-nav {
     background-color: rgba(0,0,0,0);
@@ -76,7 +76,7 @@ body {
 #custom-nav.affix {
     top: 0;
     min-width: 100%;
-    background-color: black;
+    background-color: #808080;
     opacity: 0.8;
     -webkit-transition: background .5s ease-in-out, opacity .5s ease;
     -moz-transition: background .5s ease-in-out, opacity .5s ease;
