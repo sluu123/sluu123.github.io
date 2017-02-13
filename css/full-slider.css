@@ -1,0 +1,84 @@
+/*
+ * Start Bootstrap - Full Slider (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+html,
+body {
+    height: 100%;
+}
+
+.carousel,
+.item,
+.active {
+    height: 100%;
+}
+
+.carousel-inner {
+    height: 100%;
+
+}
+
+/* Background images are set within the HTML using inline CSS, not here */
+
+.fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.nav {
+    float: right;
+    margin-right: 475px;
+}
+
+#custom-nav {
+    background-color: rgba(0,0,0,0);
+    border: 0;
+    box-shadow: none;
+    z-index: 999;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-transition: background .5s ease-in-out, opacity .5s ease;
+    -moz-transition: background .5s ease-in-out, opacity .5s ease;
+    transition: background .5s ease-in-out, opacity .5s ease;
+}
+
+#custom-nav a {
+    color:white;
+}
+
+#custom-nav .dropdown-menu {
+    border-radius: 0;
+    border: none;
+    border-top: 5px solid transparent;
+    background-color: transparent;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    padding-top: 0;
+}
+
+#custom-nav .container {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    -webkit-transition: padding-top .5s ease, padding-bottom .5s ease;
+    -moz-transition: padding-top .5s ease, padding-bottom .5s ease;
+    transition: padding-top .5s ease, padding-top .5s ease, padding-bottom .5s ease;
+}
+
+#custom-nav.affix {
+    top: 0;
+    min-width: 100%;
+    background-color: black;
+    opacity: 0.8;
+    -webkit-transition: background .5s ease-in-out, opacity .5s ease;
+    -moz-transition: background .5s ease-in-out, opacity .5s ease;
+    transition: background .5s ease-in-out, opacity .5s ease;
+}
