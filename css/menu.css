@@ -46,7 +46,11 @@ width: 100%;
 #custom-nav.affix {
     top: 0;
     min-width: 100%;
+<<<<<<< HEAD
     background-color: #8A8A8A;
+=======
+    background-color: #808080;
+>>>>>>> origin/master
     opacity: 0.8;
     -webkit-transition: background .5s ease-in-out, opacity .5s ease;
     -moz-transition: background .5s ease-in-out, opacity .5s ease;
@@ -74,7 +78,7 @@ color: white;
 }
 /* additional sections */
 #home {
-background: url(../images/image2.jpg) no-repeat center center fixed; 
+background: url(/images/image2.JPG) no-repeat center center fixed; 
 display: table;
 height: 62%;
 position: relative;
