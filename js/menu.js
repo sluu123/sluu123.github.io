@@ -27,7 +27,6 @@ content:  '<div class="info"><strong>This is my company</strong><br><br>My compa
 });  
 });
 
-
 $(window).scroll(function() {
     if ($(".navbar").offset().top > 50) {
         $('#custom-nav').addClass('affix');
