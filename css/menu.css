@@ -69,7 +69,7 @@ color: white;
 }
 /* additional sections */
 #appetizer {
-background: url(../images/gallery17.JPG) no-repeat center center fixed; 
+background: url(./images/gallery17.JPG) no-repeat center center fixed; 
 display: table;
 height: 46%;
 position: relative;
