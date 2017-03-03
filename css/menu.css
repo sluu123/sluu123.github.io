@@ -69,7 +69,7 @@ color: white;
 }
 /* additional sections */
 #appetizer {
-background: url(images/gallery17.jpg) no-repeat center center fixed; 
+background: url(images/gallery17.JPG) no-repeat center center fixed; 
 display: table;
 height: 46%;
 position: relative;
@@ -82,7 +82,7 @@ background-size: cover;
 
 
 #soups {
-background: url(images/gallery15.jpg) no-repeat center center fixed; 
+background: url(images/gallery15.JPG) no-repeat center center fixed; 
 display: table;
 height: 46%;
 position: relative;
@@ -94,7 +94,7 @@ background-size: cover;
 }
 
 #pho {
-background: url(images/gallery5.jpg) no-repeat center center fixed; 
+background: url(images/gallery5.JPG) no-repeat center center fixed; 
 display: table;
 height: 46%;
 position: relative;
@@ -106,7 +106,7 @@ background-size: cover;
 }
 
 #vermicelli {
-background: url(images/gallery6.jpg) no-repeat center center fixed; 
+background: url(images/gallery6.JPG) no-repeat center center fixed; 
 display: table;
 height: 46%;
 position: relative;
@@ -118,7 +118,7 @@ background-size: cover;
 }
 
 #rice {
-background: url(images/gallery14.jpg) no-repeat center center fixed; 
+background: url(images/gallery14.JPG) no-repeat center center fixed; 
 display: table;
 height: 46%;
 position: relative;
@@ -130,7 +130,7 @@ background-size: cover;
 }
 
 #sizzling-hot-plate {
-background: url(images/gallery25.jpg) no-repeat center center fixed; 
+background: url(images/gallery25.JPG) no-repeat center center fixed; 
 display: table;
 height: 46%;
 position: relative;
@@ -142,7 +142,7 @@ background-size: cover;
 }
 
 #thai {
-background: url(images/image3.jpg) no-repeat center center fixed; 
+background: url(images/image3.JPG) no-repeat center center fixed; 
 display: table;
 height: 46%;
 position: relative;
@@ -154,7 +154,7 @@ background-size: cover;
 }
 
 #vegetarian {
-background: url(images/gallery18.jpg) no-repeat center center fixed;
+background: url(images/gallery18.JPG) no-repeat center center fixed;
 display: table;
 height: 46%;
 position: relative;
