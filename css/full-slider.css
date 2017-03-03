@@ -70,7 +70,11 @@ body {
 #custom-nav.affix {
     top: 0;
     min-width: 100%;
+<<<<<<< HEAD
     background-color: #292c2f;
+=======
+    background-color: #8A8A8A;
+>>>>>>> origin/master
     opacity: 0.8;
     -webkit-transition: background .5s ease-in-out, opacity .5s ease;
     -moz-transition: background .5s ease-in-out, opacity .5s ease;
