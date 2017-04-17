@@ -1,6 +1,6 @@
 # Intro #
 
-Responsive website using CSS, HTML, JavaScript and Bootstrap customized for Pho Lee Restaurant in London.
+Responsive website using CSS, HTML, JavaScript and Bootstrap customized for Pho Lee Restaurant
 
 * Uses Bootstrap for the reponsive template
 * Website is optimized to have quick load times
